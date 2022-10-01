@@ -1,4 +1,4 @@
-import React, { Ref } from 'react';
+import React from 'react';
 
 // ...props.input va permettre de reprendre toutes les paires clé valeur de input
 // pour récupérer par exemple le type de l'input
